@@ -1,0 +1,14 @@
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.AssemblyInfoInputs.cache
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.AssemblyInfo.cs
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.csproj.CoreCompileInputs.cache
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\bin\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.exe
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\bin\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.deps.json
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\bin\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.runtimeconfig.json
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\bin\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.dll
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\bin\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.pdb
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.dll
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\refint\Ung-dung-chuyen-doi-tien-te.dll
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.pdb
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\Ung-dung-chuyen-doi-tien-te.genruntimeconfig.cache
+D:\Hoc Code Game\Ung dung chuyen doi tien te\Ung-dung-chuyen-doi-tien-te\Ung-dung-chuyen-doi-tien-te\obj\Debug\net8.0\ref\Ung-dung-chuyen-doi-tien-te.dll
